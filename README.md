@@ -11,7 +11,8 @@ python 3.6, tensorflow 1.12.0
 ## Usage   
 To see and modify the parameters of graphsage, see config.py.   
 To run the codes, use:   
-'''python main.py
+'''
+python main.py
 '''
 
 ## Results
