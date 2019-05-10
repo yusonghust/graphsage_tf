@@ -8,6 +8,12 @@ This code includes supervised and uinsupervised version, and three types of aggr
 ## Requirement
 python 3.6, tensorflow 1.12.0   
 
+## Usage   
+To see and modify the parameters of graphsage, see config.py.   
+To run the codes, use:   
+'''python main.py
+'''
+
 ## Results
 Here shows accuracy of the supervised and unsupervised graphsage with 'mean' aggregator.   
 
