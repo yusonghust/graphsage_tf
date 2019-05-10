@@ -13,9 +13,9 @@ Here shows accuracy of the supervised and unsupervised graphsage with 'mean' agg
 
 The supervised graphsage accuracy is 0.871    
 
-<div align=center><img src="https://github.com/cherisyu/graphsage/blob/master/sup.png" width="400" height="250" alt="supervised accuracy=0.871"/></div>      
+<div align=center><img src="https://github.com/cherisyu/graphsage/blob/master/sup.png" width="400" height="150" alt="supervised accuracy=0.871"/></div>      
 
 
 The unsupervised graphsage accuracy is 0.790    
 
-<div align=center><img src="https://github.com/cherisyu/graphsage/blob/master/unsup.png" width="400" height="250" alt="unsupervised accuracy=0.0.79"/>   
+<div align=center><img src="https://github.com/cherisyu/graphsage/blob/master/unsup.png" width="400" height="150" alt="unsupervised accuracy=0.0.79"/>   
